@@ -14,8 +14,7 @@ Don't forget to return the result.
 
 function remainder(x, y) {
 	//code...
-	let result = x % y;
-	return result;
+	
 }
 
 exports.remainder = remainder;

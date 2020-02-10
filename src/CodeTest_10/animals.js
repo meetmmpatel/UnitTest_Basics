@@ -20,7 +20,7 @@ Remember that the farmer wants to know the total number of legs and not the tota
 
 function animals(chickens, cows, pigs) {
 	//Code ...
-	return chickens * 2 + cows * 4 + pigs * 4;
+	
 }
 
 exports.animals = animals;

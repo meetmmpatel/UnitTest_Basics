@@ -13,7 +13,6 @@ Don't forget to return the result.
 
 function addition(a, b) {
 	// Code goes hear....
-	return a + b;
 }
 
 exports.addition = addition;

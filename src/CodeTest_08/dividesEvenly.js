@@ -16,12 +16,7 @@ a will always be greater than or equal to b.
 function dividesEvenly(a, b) {
 	//code...
 
-	let result = (a % b) / 100;
-	if (Number.isInteger(result)) {
-		return true;
-	} else {
-		return false;
-	}
+	
 }
 
 exports.dividesEvenly = dividesEvenly;

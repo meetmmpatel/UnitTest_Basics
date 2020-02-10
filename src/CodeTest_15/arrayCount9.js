@@ -9,13 +9,9 @@ arrayCount9([1, 9, 9, 3, 9]) → 3
 
 function arrayCount9(array) {
 	//code ....
-	let count = 0;
-	for (let i = 0; i < array.length; i++) {
-		if (array[i] == 9) {
-			count++;
-		}
-	}
-	return count;
+	
+	
+
 }
 
 exports.arrayCount9 = arrayCount9;

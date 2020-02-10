@@ -13,7 +13,7 @@ Don't forget to return the result.
 
 function convert(minutes) {
 	 //code 
-	return minutes * 60;
+	
  }
 
 exports.convert = convert;

@@ -24,11 +24,7 @@ checkEquality(1,  1) ➞ true
 
 function checkEquality(a, b) {
 	//Code...
-	if (a === b) {
-		return true;
-	} else {
-		return false;
-	}
+	
 }
 
 exports.checkEquality = checkEquality;

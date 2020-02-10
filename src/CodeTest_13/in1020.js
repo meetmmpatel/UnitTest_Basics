@@ -10,7 +10,7 @@ in1020(8, 99) → false
 
 function in1020(a, b) {
 	// Code....
-	return (a >= 10 && a <= 20) || (b >= 10 && b <= 20);
+
 }
 
 exports.in1020 = in1020;

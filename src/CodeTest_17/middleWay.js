@@ -8,10 +8,6 @@ middleWay([5, 2, 9], [1, 4, 5]) → [2, 4]
 
 function middleWay(arrOne, arrTwo) {
 	//  Code...
-	let arr = new Array();
-	arr[0] = arrOne[1];
-	arr[1] = arrTwo[1];
-	return arr;
 }
 
 exports.middleWay = middleWay;

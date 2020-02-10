@@ -13,8 +13,7 @@ Don't forget to return your answer.
 
 function howManySeconds(hours) {
 	//code ....
-	let result = hours * 60 * 60;
-	return result;
+
 }
 
 exports.howManySeconds = howManySeconds;

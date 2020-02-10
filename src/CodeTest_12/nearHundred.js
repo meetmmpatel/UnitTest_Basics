@@ -9,11 +9,7 @@ nearHundred(89) → false
 
 function nearHundred(n) {
 	//  Code....
-	if (Math.abs(100 - n) <= 10 || Math.abs(200 - n) <= 10) {
-		return true;
-	} else {
-		return false;
-	}
+	
 }
 
 exports.nearHundred = nearHundred;

@@ -12,11 +12,6 @@ lessThan100(83, 34) ➞ false
 
 function lessThan100(a, b) {
 	//code...
-	if (a + b < 100) {
-		return true;
-	} else {
-		return false;
-	}
 }
 
 exports.lessThan100 = lessThan100;

@@ -9,8 +9,7 @@ backAround("a") → "aaa"
 
 function backAround(str) {
 	//code....
-	let lastIndex = str.charAt(str.length - 1);
-	return lastIndex + str + lastIndex;
+	
 }
 
 exports.backAround = backAround;

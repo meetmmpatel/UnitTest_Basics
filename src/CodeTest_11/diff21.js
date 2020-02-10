@@ -10,11 +10,7 @@ diff21(-1) → 22
 
 function diff21(n) {
 	//  Code ....
-	if (n > 21) {
-		return (n - 21) * 2;
-	} else {
-		return 21 - n;
-	}
+
 }
 
 exports.diff21 = diff21;
