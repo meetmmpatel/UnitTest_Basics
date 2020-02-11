@@ -22,6 +22,6 @@ stepsToConvert("abaCCC") ➞ 3
 - Input has no spaces.
  */
 
-const stepsToConvert;
+// const stepsToConvert;
 
 exports.stepsToConvert = stepsToConvert;

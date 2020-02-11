@@ -9,7 +9,6 @@ numOfSubbarrays([[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]) ➞ 4
 numOfSubbarrays([1, 2, 3]) ➞ 0
  */
 
-const numOfSubbarrays;
-
+// const numOfSubbarrays;
 
 exports.numOfSubbarrays = numOfSubbarrays;
